@@ -4,10 +4,10 @@
 18/12/2022
 
 ### Project Title
-bikeshare 
+bikeshare.py
 
 ### Description
-explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
+explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington 
 ### Files used
 Include the files used
 
