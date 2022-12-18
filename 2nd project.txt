@@ -96,6 +96,9 @@ def time_stats(df):
 
     print('-' * 80)
 
+def nameOfProject():
+	print("bikeshare")
+
 
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
