@@ -98,6 +98,8 @@ def time_stats(df):
 
 def nameOfProject():
 	print("bikeshare")
+def dateOfProject():
+	print("18/12/2022")
 
 
 def station_stats(df):
